@@ -6,9 +6,8 @@ import java.util.ArrayList;
 public class Test{
     public static void main(String[] args) {
         /**
-        * EXAMPLE -- Runtime Polymorphism
+        * EXAMPLE -- Polymorphism
         * Dog can be assigned into an animal-type
-        * and the assignment will be done on runtime
         */
         Animal dog = new Dog("Marfley", "Chihuahua", "Fawn", 3);
 
